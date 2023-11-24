@@ -1,0 +1,4 @@
+pandas==2.0.2
+psycopg2-binary==2.9.9
+SQLAlchemy==2.0.21
+fastparquet==2023.10.1
